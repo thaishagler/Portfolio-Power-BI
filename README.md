@@ -6,5 +6,6 @@
 [Acesse aqui](https://app.powerbi.com/view?r=eyJrIjoiYmQwYmY5ZDYtMDZiNy00ODliLThkYjAtMTczN2FiNjRiNmIxIiwidCI6IjRiNDJjYzA0LTYxN2EtNDlkNy1iNDYyLWZlNzVhMDdkZTkzYiJ9)
 
 ## Projeto 2 - Comercial Loja de Camisetas
+![image](https://github.com/thaishagler/Portfolio-Power-BI/assets/128732206/cc1df06b-a877-447d-abc3-70bbf2c899a7)
 
 [Acesse aqui](https://app.powerbi.com/view?r=eyJrIjoiYmQwYmY5ZDYtMDZiNy00ODliLThkYjAtMTczN2FiNjRiNmIxIiwidCI6IjRiNDJjYzA0LTYxN2EtNDlkNy1iNDYyLWZlNzVhMDdkZTkzYiJ9)
